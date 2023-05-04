@@ -1,7 +1,4 @@
 Hola Morion
 Cómo vas?
-<<<<<<< HEAD
 Muy bien Morion, y tu?
-=======
 Chao Morion <3
->>>>>>> main
